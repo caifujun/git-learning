@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Understand mode git merge --no-ff.
 practise merge --no-ff again.
+understand stash.
